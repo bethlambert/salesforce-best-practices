@@ -1,10 +1,5 @@
-# salesforce-best-practices
-This page will supplement your videos with code examples and project documentation. It acts as a live portfolio and a resource hub for clients.
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Salesforce Best Practices</title>
-</head>
 <body>
     <h1>Salesforce Best Practices for GSI Clients</h1>
     <p>Welcome to our resource hub for Salesforce deployment strategies. Browse our video topics below and access code examples on GitHub.</p>
