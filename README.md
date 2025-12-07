@@ -1,11 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <h1>Salesforce Best Practices for GSI Clients</h1>
-    <p>Welcome to our resource hub for Salesforce Agentforce deployment strategies. Browse my video topics below and access code examples on GitHub.</p>
-    <ul>
-        <li><a href="month1/week3.html">Week 3: The Salesforce DevOps Journey</a></li>
-        <li><a href="month2/week5.html">Week 5: Apex Best Practices</a></li>
-        </ul>
-</body>
-</html>
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-12-07 21:01:12
+Current User's Login: bethlambert
